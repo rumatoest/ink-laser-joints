@@ -1,10 +1,10 @@
-# Inkscape Laser Cut Joints Creator
+# Inkscape Laser Cut Joints Generator
 
 Plugin idea based on [QuickJoint](https://github.com/JarrettR/QuickJoint.git) which is buggy and thus very annoying to use.
 I planed to fix some bugs but code was so messy ... 
 This is why it was decided to create a new Inkscape plugin.
 
-The core idea behind this plugin is having minimum useful functionality without bugs.
+The core idea behind this plugin is to have minimum useful functionality without bugs.
 
 ## Описание
 

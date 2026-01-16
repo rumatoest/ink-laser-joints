@@ -16,7 +16,7 @@
 						<option value="both">Both.</option>
 					</param>
 					<param name="numtabs" type="int" min="2" max="999" gui-text="Number of tabs/slots:">3</param>
-					<param name="side" type="int" min="0" max="999" gui-text="Side number: ">1</param>
+					<param name="side" type="int" min="-999" max="999" gui-text="Side number: ">1</param>
 					<param name="edgefeatures" type="boolean" gui-text="Tab in corners.">True</param>
 					<param name="flipside" type="boolean" gui-text="Tabs on another side.">True</param>
 				</vbox>
